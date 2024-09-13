@@ -1,4 +1,4 @@
-module hello-ext
+module github.com/Mord1n/hello-ext
 
 go 1.23.1
 
